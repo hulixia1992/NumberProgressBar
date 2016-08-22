@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiSwipeRefreshLayout">
+        <attr name="foreground" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="NumberPorgressBar">
+        <attr name="unreached_color" format="color|reference" />
+        <attr name="reached_color" format="color|reference" />
+        <attr name="progress_num" format="integer" />
+        <attr name="num_size" format="dimension|reference" />
+        <attr name="num_color" format="color|reference" />
+    </declare-styleable>
+</resources>
